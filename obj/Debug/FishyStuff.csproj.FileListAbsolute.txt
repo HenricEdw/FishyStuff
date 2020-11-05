@@ -1,0 +1,6 @@
+C:\CodeProjects\FishyStuff\bin\Debug\FishyStuff.exe.config
+C:\CodeProjects\FishyStuff\bin\Debug\FishyStuff.exe
+C:\CodeProjects\FishyStuff\bin\Debug\FishyStuff.pdb
+C:\CodeProjects\FishyStuff\obj\Debug\FishyStuff.csprojAssemblyReference.cache
+C:\CodeProjects\FishyStuff\obj\Debug\FishyStuff.exe
+C:\CodeProjects\FishyStuff\obj\Debug\FishyStuff.pdb
